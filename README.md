@@ -45,7 +45,7 @@ Project ini bertujuan untuk membangun model machine learning untuk **memprediksi
 
 Model terbaik dalam project ini adalah **Gradient Boosting Classifier**, dipilih berdasarkan performa yang optimal untuk mendeteksi churn.
 
-### 5. Metrics
+### Metrics
 
 #### ✅ False Positive (FP)
 - **Definisi:** Model memprediksi pelanggan akan churn (1), padahal sebenarnya pelanggan tidak churn (0).
