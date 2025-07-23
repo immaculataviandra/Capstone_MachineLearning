@@ -96,7 +96,7 @@ Dataset ini bersifat fiktif/sintetik dan digunakan untuk pembelajaran.
 Model belum dideploy ke dalam aplikasi, namun sudah siap untuk tahap selanjutnya seperti API deployment atau dashboard dengan Streamlit.
 
 ## 🙋‍♀️ Author
-Immaculata Viandra
+Immaculata Viandra.
 
 Capstone Project - Machine Learning @Purwadhika
 
