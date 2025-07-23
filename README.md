@@ -30,6 +30,38 @@ Project ini bertujuan untuk membangun model machine learning untuk **memprediksi
 | `Contoh_CapstoneProject_...ipynb` | Draft dan contoh awal project klasifikasi & regresi |
 
 ---
+## ℹ️ Features
+| Features | Description |
+| --- | --- |
+| Tenure | Lama waktu (dalam bulan) pelanggan telah menggunakan layanan atau menjadi anggota |
+| WarehouseToHome | Jarak pengiriman dari gudang/store ke alamat pelanggan (dalam kilometer) |
+| NumberOfDeviceRegistered | Jumlah perangkat yang terdaftar oleh pelanggan untuk mengakses platform/website supermarket |
+| PreferedOrderCat | Kategori pesanan yang biasa pelanggan beli/suka |
+| SatisfactionScore | Skor kepuasan (1, 2, 3, 4, 5) |
+| MaritalStatus | Satus perkawinan pelanggan |
+| NumberOfAddress | Nomor alamat rumah |
+| Complain | Apakah pelanggan pernah komplain? 0 untuk tidak pernah | 1 untuk pernah |
+| DaySinceLastOrder | Pembelian terakhir yang dilakukan oleh pelanggan (dalam hari) |
+| CashbackAmount | Jumlah cashback yang diberikan kepada pelanggan |
+
+---
+### Transformer
+<img width="2023" height="358" alt="image" src="https://github.com/user-attachments/assets/f2bcb635-3449-49c4-85fa-b91af7814739" />
+
+---
+### Hyperparameter Tuning
+<img width="2179" height="750" alt="image" src="https://github.com/user-attachments/assets/7d4e77f3-6eb8-4dd2-8b0f-dc81d0992f5d" />
+
+---
+### Confusion Matrix GBoost
+<img width="951" height="393" alt="image" src="https://github.com/user-attachments/assets/01e28551-6f36-444c-b078-0b44164843db" />
+
+---
+### Interpretation
+<img width="797" height="780" alt="image" src="https://github.com/user-attachments/assets/43fbff10-85de-4595-9896-0b0b999e1bf4" />
+---
+<img width="2291" height="326" alt="image" src="https://github.com/user-attachments/assets/e2e2ad51-f33a-4794-b36e-88de9525a62e" />
+---
 
 ## 🔧 Tools & Teknologi
 
